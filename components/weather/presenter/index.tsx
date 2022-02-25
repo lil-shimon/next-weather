@@ -32,8 +32,8 @@ const WeatherByDay: FC<DayProps> = ({forecast}) => {
     const useStyles = makeStyles({
         container: {
             alignItems: 'center',
-            padding: "3 0",
-            margin: "3 0"
+            padding: "3% 0",
+            margin: "3% 0"
         }
     })
 
