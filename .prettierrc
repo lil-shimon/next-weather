@@ -1,0 +1,11 @@
+{
+  "tabWidth": 2,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "semi": true,
+  "no-duplicate-variable": [
+    true,
+    "check-parameters"
+  ],
+  "no-var-keyword": true
+}

@@ -1,0 +1,1 @@
+export const API_URL = "https://weather.tsukumijima.net/api/forecast?city=110010"
